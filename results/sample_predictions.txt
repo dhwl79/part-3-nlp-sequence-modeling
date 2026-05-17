@@ -1,1 +1,23 @@
+SAMPLE PREDICTIONS — LOGISTIC REGRESSION WITH TF-IDF
+===========================================================================
 
+Test Accuracy : 100.00%
+Weighted F1   : 1.0000
+
+Message                                                True      Predicted   Correct 
+------------------------------------------------------------------------------------
+I have raised multiple tickets but nobody has fi     negative     negative     YES   
+Billing is incorrect and I was charged twice thi     negative     negative     YES   
+I have raised multiple tickets but nobody has fi     negative     negative     YES   
+The product quality is bad and I regret purchasi     negative     negative     YES   
+I am very unhappy because my mobile app has not      negative     negative     YES   
+I need help finding the invoice for my last orde     neutral      neutral      YES   
+Can you confirm whether my ticket has been assig     neutral      neutral      YES   
+I need information about the payment process.        neutral      neutral      YES   
+Can you confirm whether my ticket has been assig     neutral      neutral      YES   
+I am checking if there is any scheduled maintena     neutral      neutral      YES   
+The refund process was fast and convenient. I ap     positive     positive     YES   
+I am satisfied with the plan and would recommend     positive     positive     YES   
+Your support team resolved my issue quickly. Tha     positive     positive     YES   
+I am satisfied with the plan and would recommend     positive     positive     YES   
+I am satisfied with the plan and would recommend     positive     positive     YES   
